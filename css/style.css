@@ -22,7 +22,7 @@ html {
   width: 1440px;
   margin: 0 auto;
   height: 780px;
-  background-image: url(/img/main_bg.jpg);
+  background-image: url(../img/main_bg.jpg);
 }
 
 .header-wrapper {
@@ -254,15 +254,15 @@ h2 {
 }
 
 #f {
-  background: url('/img/deer.jpg');
+  background: url('../img/deer.jpg');
 }
 
 #s {
-  background: url('/img/squirrel.jpg');
+  background: url('../img/squirrel.jpg');
 }
 
 #t {
-  background: url('/img/bird.jpg');
+  background: url('../img/bird.jpg');
 }
 
 .arrows {
@@ -385,7 +385,7 @@ footer {
   width: 1440px;
   margin: 0 auto;
   height: 360px;
-  background: url('/img/footer_bg.jpg');
+  background: url('../img/footer_bg.jpg');
   display: flex;
   align-items: center;
 }
@@ -447,18 +447,18 @@ footer {
 }
 
 #facebook {
-  background: url('/icons/fb.svg') no-repeat;
+  background: url('../icons/fb.svg') no-repeat;
 }
 
 #instagram {
-  background: url('/icons/inst.svg') no-repeat;
+  background: url('../icons/inst.svg') no-repeat;
 }
 
 #pinterest {
-  background: url('/icons/pinterest.svg') no-repeat;
+  background: url('../icons/pinterest.svg') no-repeat;
 }
 
 #youtube {
-  background: url('/icons/youtube.svg') no-repeat;
+  background: url('../icons/youtube.svg') no-repeat;
   background-size: 40px 40px;
 }
